@@ -695,7 +695,7 @@ export default function TodoList() {
         >
           Built with ❤️ by{" "}
           <span className="font-bold bg-linear-to-r from-violet-600 to-pink-500 bg-clip-text text-transparent">
-            Rothash Poonia
+            Rohtash Poonia
           </span>
         </p>
       </div>
